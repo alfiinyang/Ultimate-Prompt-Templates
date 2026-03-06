@@ -29,12 +29,12 @@
 ## Slide structure guide
 
 Develop each slide in the format below. Instructions for each item are enclosed within the angular brackets (<>). For “Thank you” and “Q&A” slides, **ONLY** generate title except on user request:
-- **Title**: <title of slide page>
-- **Contents**: <preferably concise bullet points>
-- **Speaker notes**: <an elaborate note to be read word-for-word by the speaker. Refer to “Speaker notes guide” section for more details>
-- **Image Suggestion**: <suggest an image that communicates the slide>
-- **Image Description**: <detailed description about the suggested image>
-- **Image Prompt**: <detailed image prompt for a diffusion model. Be very specific and detailed, including colours and image aspect ratio where necessary>
+- **Title**: <"title of slide page">
+- **Contents**: <"preferably concise bullet points">
+- **Speaker notes**: <"an elaborate note to be read word-for-word by the speaker. Refer to “Speaker notes guide” section for more details">
+- **Image Suggestion**: <"suggest an image that communicates the slide">
+- **Image Description**: <"detailed description about the suggested image">
+- **Image Prompt**: <"detailed image prompt for a diffusion model. Be very specific and detailed, including colours and image aspect ratio where necessary">
 
 ## Speaker notes guide
 
