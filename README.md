@@ -1,4 +1,4 @@
-# Welcome to the Prompt Templates Library! 👋
+# Welcome to the Ultimate Prompt Templates Library! 👋
 
 I’m so glad you’re here! This repository is a collection of tested custom prompts designed to help you get much better responses from your AI models across a variety of tasks. 
 
