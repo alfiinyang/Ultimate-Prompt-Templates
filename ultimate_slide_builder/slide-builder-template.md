@@ -1,4 +1,4 @@
-# Slide Builder Template
+# Ultimate Slide Builder Template
 
 **Description**: This document provides a template for developing slides for a presentation. It contains 3 sections:
 
