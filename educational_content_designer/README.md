@@ -2,7 +2,9 @@
 
 This repository contains prompt templates designed to customize an Educational Content Designer LLM for creating YouTube-style visual learning slides for children.
 
-![Boy & Robot X-Ray](./sample_slides/boy_n_robot_xray.gif) | ![Welcome Slide](./sample_slides/intro_animation.gif)
+<img src="./sample_slides/boy_n_robot_xray.gif" width="30%">
+
+![Boy & Robot X-Ray](./sample_slides/boy_n_robot_xray.gif)  ![Welcome Slide](./sample_slides/intro_animation.gif)
 
 ## File Overview
 
