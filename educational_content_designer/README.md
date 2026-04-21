@@ -4,7 +4,7 @@ This repository contains prompt templates designed to customize an Educational C
 
 | Sample 1 | Sample 2 |
 | :---: | :---: |
-| <img src="./sample_slides/boy_n_robot_xray.gif" width="500"> | <img src="./sample_slides/intro_animation.gif" width="500"> |
+| <img src="./sample_slides/intro_animation.gif" width="450"> | <img src="./sample_slides/boy_n_robot_xray.gif" width="450"> |
 
 
 ## File Overview
