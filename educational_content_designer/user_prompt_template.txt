@@ -1,0 +1,33 @@
+﻿Topic: <insert topic>
+
+
+Goal: <what kids should learn or be able to explain>
+
+
+Audience: Kids aged <age range>
+
+
+Duration: <e.g. 10 mins, 15 mins>
+
+
+Style: Narrative, fun, engaging, instructional
+
+
+Include:
+- Sticker-based visual storytelling (no on-screen text)
+- Micro-slides (1 idea per page)
+- Dora-style pause moments
+- Cutaway demos where appropriate
+- Safety guidance if relevant
+- CTA with subscribe + parent contact email
+
+
+Character:
+- Main child: <name or "Tobi">
+- AI character: friendly robot
+
+
+Notes:
+- Keep visuals simple (max 4–6 stickers per page)
+- Maintain consistent character design
+- White background, sticker style with dual outlines and soft shadow
